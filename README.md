@@ -1,6 +1,8 @@
 # vshiba.github.io
-shiba
 
+hell0o 
 
-hello 
-i am
+i am shiba
+iw rote this
+with my two pawws
+or 4
