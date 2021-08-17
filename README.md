@@ -10,4 +10,5 @@ or 4
 ![shiba](https://static.fajnyzwierzak.pl/media/uploads/media_image/original/wpis/317/shiba-inu.jpg "shiba")
 
 here is a phtoto of me!
-i am shbia
+
+i am **shbia**
