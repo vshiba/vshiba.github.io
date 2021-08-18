@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<!-- 
+https://twitter.com/rosie2wosie 
+this is going to be the about the creator thing, also known as mega painwa ah
+
+#9B9B9B
+#C9C9C9
+#7E7E7E
+-->
+
+<html>
+    <head>
+        <style>
+        body {font-family: "Comic Sans MS"}
+      </style>
+        <link rel="icon" type="image/png" href="/favicon.png"/>
+        <title>the shiba website</title>
+    </head>
+    <body style="background-color:#C9C9C9;">
+         <div style="text-align:center;background-color:#9B9B9B;"> <!-- title thing -->
+         <h1><span style="color:#FF0000">a</span><span style="color:#FF6000">b</span><span style="color:#FFBF00">o</span><span style="color:#DFFF00">u</span><span style="color:#80FF00">t</span> <span style="color:#20FF00">t</span><span style="color:#00FF40">h</span><span style="color:#00FF9F">e</span> <span style="color:#00FFFF">c</span><span style="color:#009FFF">r</span><span style="color:#0040FF">e</span><span style="color:#2000FF">a</span><span style="color:#7F00FF">t</span><span style="color:#DF00FF">o</span><span style="color:#FF00BF">r</span><span style="color:#FF0060">s</span></h1>
+         </div>
+         <div style="text-align:left"> <!-- main desc thing -->
+         <!-- rosie -->
+             <hr>
+             <h2>rosie</h2>
+             <p>idea makmer and website maker</p>
+             <hr>
+         <!-- rosie -->
+         <!-- firee -->
+             <h2>firee</h2>
+             <p>bot coder and great guy</p>
+             <hr>
+         <!-- firee -->
+         <!-- jasmine -->
+             <h2>jasmine</h2>
+             <p>worked for shiba a long time ago</p>
+             <hr>
+         <!-- jasmine -->
+         </div>
+    </body>
+</html>
